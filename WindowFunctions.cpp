@@ -1,4 +1,4 @@
-#include "main.h"
+#include "WindowFunctions.h"
 
 INT nTopFigure, nTopMyFigure, nPtCounter;	// top of windows stack
 RECT WndRect; // window size

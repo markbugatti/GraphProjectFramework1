@@ -1,7 +1,5 @@
 #include "Ellipses.h"
 
-
-
 void Ellipses::initRgn()
 {
 	if (hEllipseRgn) DeleteObject(hEllipseRgn);

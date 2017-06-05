@@ -65,9 +65,6 @@
     <ClInclude Include="WindowFunctions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="WindowMain.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Triangles.h">
       <Filter>Header Files</Filter>
     </ClInclude>

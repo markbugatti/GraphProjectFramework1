@@ -1,0 +1,10 @@
+﻿  ObjectManage.cpp
+  MyFigure.cpp
+MyFigure.cpp(71): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  Compiling...
+  main.cpp
+  WindowFunctions.cpp
+  Generating Code...
+  GraphProject.vcxproj -> C:\Users\Mark Kravchenko\Documents\Visual Studio 2015\Projects\API 32 proj\GraphProjectFramework1\Debug\GraphProject.exe
+  GraphProject.vcxproj -> C:\Users\Mark Kravchenko\Documents\Visual Studio 2015\Projects\API 32 proj\GraphProjectFramework1\Debug\GraphProject.pdb (Full PDB)

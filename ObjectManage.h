@@ -1,10 +1,6 @@
 #pragma once
-
-#include "stdafx.h"
-#include "Rectangles.h"
-#include "Ellipses.h"
-#include "Triangles.h"
 #include "MyFigure.h"
+#include "Figure.h"
 
 void ObjectDraw(HDC &hMem, INT nTop, HPEN &hPen, Figure **cWindow, HWND &hWnd, RECT &WndRect);
 void MyObjectDraw(HDC &hMem, INT nTop, HPEN &hPen, MyFigure *cWindow, HWND &hWnd, RECT &WndRect);

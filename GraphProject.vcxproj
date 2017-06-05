@@ -119,7 +119,6 @@
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="Triangles.h" />
     <ClInclude Include="WindowFunctions.h" />
-    <ClInclude Include="WindowMain.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="GraphProjectFramework.rc" />

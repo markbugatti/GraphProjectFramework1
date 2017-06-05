@@ -1,5 +1,10 @@
 #pragma once
-#include "main.h"
+#include "Rectangles.h"
+#include "Ellipses.h"
+#include "Triangles.h"
+#include "Figure.h"
+#include "MyFigure.h"
+#include "ObjectManage.h"
 
 LRESULT CALLBACK MainWndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam);
 ATOM MyRegisterClass(HINSTANCE hInstance, WNDPROC WndProc, WCHAR *szClassName);

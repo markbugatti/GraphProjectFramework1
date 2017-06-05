@@ -22,5 +22,4 @@ protected:
 	int nFrameWidth;
 	COLORREF color;
 	RECT pos;
-
 };
