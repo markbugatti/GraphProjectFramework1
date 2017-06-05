@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ellipses" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAgAAAIAQAAAAAACAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Ellipses.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAACAAAwIQAIGAIAAAAAAEACEAAAAgGAIAAI=</HashCode>
+      <FileName>Figure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFigure" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARIIAAAAAAAAAAiKRAIAAAEAAAAAAEKAAAAAAAAIAAA=</HashCode>
+      <FileName>MyFigure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangles" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAAAAAAgAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rectangles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Triangles" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAAAAAAAAAAgBgAIAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Triangles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Functions" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAAAAAAAAAAAAAAAIAAAQAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
