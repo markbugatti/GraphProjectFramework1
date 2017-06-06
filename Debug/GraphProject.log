@@ -1,6 +1,11 @@
-﻿  ObjectManage.cpp
-  MyFigure.cpp
-MyFigure.cpp(71): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+﻿  Triangles.cpp
+Triangles.cpp(39): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Rectangles.cpp
+Rectangles.cpp(19): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  ObjectManage.cpp
+  Figure.cpp
+  Ellipses.cpp
+Ellipses.cpp(26): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
   Generating Code...
   Compiling...
   main.cpp
