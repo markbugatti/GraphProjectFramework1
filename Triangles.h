@@ -14,4 +14,3 @@ public:
 	bool isClicked(POINT &pt);
 	~Triangles();
 };
-

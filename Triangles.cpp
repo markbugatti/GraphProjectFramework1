@@ -1,6 +1,5 @@
 #include "Triangles.h"
 
-
 Triangles::Triangles()
 {
 }
@@ -38,7 +37,6 @@ bool Triangles::isClicked(POINT & pt)
 {
 	return PtInRegion(hTriangleRgn, pt.x, pt.y);
 }
-
 
 Triangles::~Triangles()
 {

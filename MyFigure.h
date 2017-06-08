@@ -1,6 +1,7 @@
 #pragma once
 #include "stdafx.h"
 #include "resource.h"
+
 class MyFigure
 {
 private:
@@ -24,4 +25,3 @@ public:
 	void setDelta(SIZE delta);
 	~MyFigure();
 };
-
