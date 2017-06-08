@@ -2,6 +2,8 @@
 Thumbs.db
 ehthumbs.db
 
+/
+
 # Folder config file
 Desktop.ini
 
@@ -49,11 +51,11 @@ Temporary Items
 ~$кументация.docx
 #*.tmp
 
-/Debug/**/*
-/*
-!/*.cpp
-!/*.h
-!/*.docx
-!/*.rc
-!/*.sln
-!/*.svcxproj
+#/*
+#/Debug/**/*
+#!/*.cpp
+#!/*.h
+#!/*.docx
+##!/*.rc
+#!/*.sln
+#!/*.svcxproj
