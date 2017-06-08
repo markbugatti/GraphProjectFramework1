@@ -49,10 +49,10 @@ Temporary Items
 ~$кументация.docx
 #*.tmp
 
-/GraphProjectFramework1/*
-!/GraphProjectFramework1/*.cpp
-!/GraphProjectFramework1/*.h
-!/GraphProjectFramework1/*.docx
-!/GraphProjectFramework1/*.rc
-!/GraphProjectFramework1/*.sln
-!/GraphProjectFramework1/*.svcxproj
+/*
+!/*.cpp
+!/*.h
+!/*.docx
+!/*.rc
+!/*.sln
+!/*.svcxproj
