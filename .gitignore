@@ -49,6 +49,7 @@ Temporary Items
 ~$кументация.docx
 #*.tmp
 
+/Debug/*
 /*
 !/*.cpp
 !/*.h
