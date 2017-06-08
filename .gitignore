@@ -1,4 +1,4 @@
-# Windows image file caches
+﻿# Windows image file caches
 Thumbs.db
 ehthumbs.db
 
@@ -47,4 +47,12 @@ Temporary Items
 .apdisk
 .vs/GraphProject/v14/.suo
 ~$кументация.docx
-*.tmp
+#*.tmp
+
+/GraphProjectFramework1/*
+!/GraphProjectFramework1/*.cpp
+!/GraphProjectFramework1/*.h
+!/GraphProjectFramework1/*.docx
+!/GraphProjectFramework1/*.rc
+!/GraphProjectFramework1/*.sln
+!/GraphProjectFramework1/*.svcxproj
