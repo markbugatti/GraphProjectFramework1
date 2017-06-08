@@ -1,16 +1,11 @@
 ﻿#игнорировать все
 /*
-*.cpp
-*.h
-*.docx
-*.rc
-*.sln
-*.svcxproj
-
-
-
-
-
+!/*.cpp
+!/*.h
+!/*.docx
+!/*.rc
+!/*.sln
+!/*.svcxproj
 
 #/*
 #/Debug/**/*
